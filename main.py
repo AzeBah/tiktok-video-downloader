@@ -2,7 +2,7 @@ import requests
 
 
 
-tiktokVideoLink = input("enter video link to downlaod : ")
+tiktokVideoLink = input("enter video link to download : ")
 
 response = requests.get(
     tiktokVideoLink,
