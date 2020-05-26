@@ -4,6 +4,7 @@ Simple video downloader in python
 
 # How-To-Use
 1) Download python3
+3) pip install requests
 2) run main.py
 3) paste the tik tok video link (click share link & you will get the correct one)
 4) enjoy!
